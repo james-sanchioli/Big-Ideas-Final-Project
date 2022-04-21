@@ -11,7 +11,7 @@ Tristan Zuroski - Computer Science Student - tjz13@pitt.edu
 ## Metrics
 ### 311 Reports - James Sanchioli
 ### City of Pittsburgh Trees - Tristan Zuroski
-An analysis of quantity of trees per neighborhood, as more trees is demonstrated to be beneficial to wellbeing. Includes some investigation of tree quality.
+An analysis of quantity of trees per neighborhood, including some investigation of tree quality.
 
 ## Sources
 
