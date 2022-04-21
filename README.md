@@ -5,10 +5,11 @@ Our project entails finding the best neighborhood in Pittsburgh for wholistic he
 
 ## Team Members
 James Sanchioli - Information Science Student - jjs268@pitt.edu
+Tristan Zuroski - Computer Science Student - tjz13@pitt.edu
 
 ## Metrics
 ### 311 Reports - James Sanchioli
-
+### City of Pittsburgh Trees - Tristan Zuroski
 
 ## Sources
 
