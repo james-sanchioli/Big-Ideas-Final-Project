@@ -12,7 +12,7 @@ James Sanchioli - Information Science Student - jjs268@pitt.edu
 
 ## Sources
 
-City of Pittsburgh Stairs - https://data.wprdc.org/dataset/city-steps
+City of Pittsburgh 311 Reports - https://data.wprdc.org/dataset/311-data
 
 Supermarkets & Convince Stores - https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores
 
