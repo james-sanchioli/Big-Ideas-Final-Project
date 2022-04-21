@@ -1,4 +1,4 @@
-# Big-Ideas-Final-Project
+# Big Ideas Final Project: Best Neighborhood in Pittsburgh
 
 Our project entails finding the best neighborhood in Pittsburgh for wholistic health. Our submetrics include access to steps, grocery or convenience stores and levels of foliage throughout different neighborhoods. 
 
@@ -11,7 +11,7 @@ Tristan Zuroski - Computer Science Student - tjz13@pitt.edu
 ## Metrics
 ### 311 Reports - James Sanchioli
 ### City of Pittsburgh Trees - Tristan Zuroski
-An analysis of quantity of trees per neighborhood, as more trees is demonstrated to be beneficial to wellbeing.
+An analysis of quantity of trees per neighborhood, as more trees is demonstrated to be beneficial to wellbeing. Includes some investigation of tree quality.
 
 ## Sources
 
