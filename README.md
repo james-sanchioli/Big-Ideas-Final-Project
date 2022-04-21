@@ -10,8 +10,14 @@ Tristan Zuroski - Computer Science Student - tjz13@pitt.edu
 
 ## Metrics
 ### 311 Reports - James Sanchioli
+Taking all the 311 Reports in the Pittsburgh Area and compairing the amounts against neighborhoods. 
+
 ### City of Pittsburgh Trees - Tristan Zuroski
 An analysis of quantity of trees per neighborhood, including some investigation of tree quality.
+
+
+## Conclusions
+From the datasets pure values, it is a tie between Squirl Hill South and South Side Flats, however we do not feel there is any real conclusions that can be made with these data sets. Due to the abnormal nature of the 311 report density and the Grocery/Convienvce Store locations, the only reliable data set will be the Trees.
 
 ## Sources
 
