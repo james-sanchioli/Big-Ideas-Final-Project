@@ -17,7 +17,8 @@ Taking all the 311 Reports in the Pittsburgh Area and compairing the amounts aga
 ### City of Pittsburgh Trees - Tristan Zuroski
 An analysis of quantity of trees per neighborhood, including some investigation of tree quality.
 
-*** Supermarkets and Convenience Stores - Shivangi Tiwari
+### Supermarkets and Convenience Stores - Shivangi Tiwari
+
 Understanding where the density of supermarket and convenience stores, describing access to food at convenience and health wise. 
 
 ## Conclusions
