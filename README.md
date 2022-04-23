@@ -22,7 +22,7 @@ An analysis of quantity of trees per neighborhood, including some investigation 
 Understanding where the density of supermarket and convenience stores, describing access to food at convenience and health wise. 
 
 ## Conclusions
-From the datasets pure values, it is a tie between Squirl Hill South and South Side Flats, however we do not feel there is any real conclusions that can be made with these data sets. Due to the abnormal nature of the 311 report density and the Grocery/Convienvce Store locations, the only reliable data set will be the Trees.
+From the datasets pure values, it is a tie between Squirrel Hill South and South Side Flats, however we do not feel there is any real conclusions that can be made with these data sets. Due to the abnormal nature of the 311 report density and the Grocery/Convienvce Store locations, the only reliable data set will be the Trees.
 
 ## Sources
 
